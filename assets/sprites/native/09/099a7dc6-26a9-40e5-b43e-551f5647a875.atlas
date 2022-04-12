@@ -1,0 +1,97 @@
+
+4_yangtuo_sk.png
+size: 1777,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 1472, 152
+  size: 329, 292
+  orig: 331, 294
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 635, 2
+  size: 124, 110
+  orig: 126, 112
+  offset: 1, 1
+  index: -1
+clothes_2
+  rotate: false
+  xy: 793, 147
+  size: 677, 334
+  orig: 680, 336
+  offset: 2, 1
+  index: -1
+clothes_6
+  rotate: true
+  xy: 549, 114
+  size: 367, 242
+  orig: 369, 244
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 793, 15
+  size: 130, 186
+  orig: 132, 188
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1169, 15
+  size: 130, 183
+  orig: 132, 185
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 981, 15
+  size: 130, 186
+  orig: 132, 188
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 1354, 15
+  size: 130, 183
+  orig: 132, 185
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 2, 98
+  size: 383, 545
+  orig: 385, 547
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: true
+  xy: 494, 13
+  size: 83, 139
+  orig: 85, 141
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 2, 6
+  size: 90, 148
+  orig: 92, 150
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 152, 8
+  size: 340, 88
+  orig: 342, 90
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: false
+  xy: 1539, 29
+  size: 236, 121
+  orig: 238, 123
+  offset: 1, 1
+  index: -1

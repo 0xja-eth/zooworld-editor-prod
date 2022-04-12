@@ -1,0 +1,76 @@
+
+1_zhu_sk.png
+size: 1666,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 597, 11
+  size: 493, 440
+  orig: 495, 442
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 1223, 11
+  size: 99, 51
+  orig: 101, 53
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: true
+  xy: 2, 3
+  size: 501, 373
+  orig: 503, 375
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 1039, 2
+  size: 90, 108
+  orig: 92, 110
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 1131, 3
+  size: 90, 107
+  orig: 92, 109
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 1330, 34
+  size: 76, 68
+  orig: 78, 70
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1276, 27
+  size: 52, 83
+  orig: 54, 85
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 1432, 159
+  size: 345, 232
+  orig: 347, 234
+  offset: 1, 1
+  index: -1
+headdress_3
+  rotate: false
+  xy: 1039, 112
+  size: 391, 392
+  orig: 393, 394
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 377, 9
+  size: 218, 495
+  orig: 220, 497
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+0_daxingxing_sk.png
+size: 916,1077
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 184
+  size: 406, 424
+  orig: 406, 424
+  offset: 0, 0
+  index: -1
+clothes_6
+  rotate: false
+  xy: 601, 2
+  size: 313, 395
+  orig: 315, 397
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 267, 73
+  size: 109, 140
+  orig: 111, 142
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 409, 21
+  size: 109, 140
+  orig: 111, 142
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 410, 253
+  size: 189, 355
+  orig: 189, 355
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 631, 672
+  size: 263, 403
+  orig: 265, 405
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 631, 399
+  size: 275, 271
+  orig: 277, 273
+  offset: 1, 1
+  index: -1
+head_4
+  rotate: false
+  xy: 410, 132
+  size: 149, 119
+  orig: 151, 121
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: false
+  xy: 2, 59
+  size: 263, 123
+  orig: 265, 125
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 610
+  size: 465, 627
+  orig: 467, 629
+  offset: 1, 1
+  index: -1

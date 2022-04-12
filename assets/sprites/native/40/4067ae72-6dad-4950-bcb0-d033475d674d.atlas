@@ -1,0 +1,83 @@
+
+4_you_sk.png
+size: 691,1076
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 304, 4
+  size: 268, 244
+  orig: 270, 246
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 494
+  size: 328, 501
+  orig: 330, 503
+  offset: 1, 1
+  index: -1
+clothes_2
+  rotate: false
+  xy: 2, 824
+  size: 681, 250
+  orig: 683, 252
+  offset: 1, 1
+  index: -1
+clothes_4
+  rotate: false
+  xy: 505, 428
+  size: 162, 154
+  orig: 164, 156
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 2, 32
+  size: 88, 124
+  orig: 90, 126
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 574, 2
+  size: 97, 134
+  orig: 99, 136
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 502, 321
+  size: 105, 184
+  orig: 107, 186
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 574, 138
+  size: 103, 181
+  orig: 105, 183
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 2, 158
+  size: 334, 300
+  orig: 336, 302
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 304, 250
+  size: 242, 196
+  orig: 247, 198
+  offset: 4, 1
+  index: -1
+weapon_4
+  rotate: true
+  xy: 505, 584
+  size: 238, 184
+  orig: 240, 186
+  offset: 1, 1
+  index: -1

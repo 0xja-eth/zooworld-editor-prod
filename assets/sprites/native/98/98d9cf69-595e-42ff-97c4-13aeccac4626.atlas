@@ -1,0 +1,83 @@
+
+0_shuiniu_sk.png
+size: 1909,800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 1099, 5
+  size: 389, 351
+  orig: 391, 363
+  offset: 1, 11
+  index: -1
+body_2
+  rotate: false
+  xy: 650, 5
+  size: 155, 116
+  orig: 157, 118
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: true
+  xy: 1490, 2
+  size: 288, 324
+  orig: 290, 326
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 807, 11
+  size: 110, 144
+  orig: 112, 148
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 953, 12
+  size: 109, 144
+  orig: 111, 148
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 1490, 600
+  size: 198, 370
+  orig: 200, 372
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1056, 358
+  size: 285, 440
+  orig: 285, 440
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 650, 123
+  size: 675, 404
+  orig: 677, 407
+  offset: 1, 2
+  index: -1
+headdress_1
+  rotate: false
+  xy: 1640, 292
+  size: 267, 306
+  orig: 269, 308
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 3
+  size: 646, 795
+  orig: 648, 797
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: true
+  xy: 1343, 380
+  size: 218, 295
+  orig: 220, 297
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+4_huli_sk.png
+size: 637,1079
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 136, 19
+  size: 280, 252
+  orig: 282, 254
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 787
+  size: 290, 469
+  orig: 292, 471
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: true
+  xy: 2, 2
+  size: 233, 132
+  orig: 235, 134
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 418, 29
+  size: 77, 133
+  orig: 79, 135
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 497, 85
+  size: 77, 129
+  orig: 79, 131
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 418, 164
+  size: 71, 167
+  orig: 73, 169
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 473, 1008
+  size: 69, 162
+  orig: 72, 164
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 478
+  size: 436, 307
+  orig: 438, 309
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 473, 649
+  size: 159, 176
+  orig: 161, 178
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 473, 827
+  size: 160, 179
+  orig: 162, 181
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 440, 237
+  size: 410, 193
+  orig: 412, 195
+  offset: 1, 1
+  index: -1
+weapon_3
+  rotate: true
+  xy: 2, 273
+  size: 203, 431
+  orig: 205, 433
+  offset: 1, 1
+  index: -1

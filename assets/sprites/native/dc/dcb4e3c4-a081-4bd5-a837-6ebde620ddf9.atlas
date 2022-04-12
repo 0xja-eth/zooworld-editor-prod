@@ -1,0 +1,83 @@
+
+5_mao_sk.png
+size: 594,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 400, 13
+  size: 267, 160
+  orig: 269, 162
+  offset: 1, 1
+  index: -1
+clothes_4
+  rotate: true
+  xy: 450, 370
+  size: 232, 123
+  orig: 234, 125
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 304, 175
+  size: 50, 67
+  orig: 52, 69
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 304, 123
+  size: 50, 66
+  orig: 52, 68
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 450, 282
+  size: 86, 93
+  orig: 88, 95
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 304, 227
+  size: 85, 94
+  orig: 87, 96
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 647
+  size: 452, 383
+  orig: 454, 385
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 456, 818
+  size: 136, 212
+  orig: 138, 214
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 456, 604
+  size: 135, 212
+  orig: 137, 214
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 2, 314
+  size: 446, 331
+  orig: 448, 333
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 2
+  size: 300, 310
+  orig: 302, 312
+  offset: 1, 1
+  index: -1

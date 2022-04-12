@@ -1,0 +1,90 @@
+
+5_songshu_sk.png
+size: 2028,422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 1735, 15
+  size: 245, 148
+  orig: 247, 150
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 2
+  size: 418, 651
+  orig: 420, 653
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: true
+  xy: 1729, 165
+  size: 255, 104
+  orig: 257, 106
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 1303, 32
+  size: 91, 111
+  orig: 93, 113
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 1396, 34
+  size: 92, 109
+  orig: 94, 111
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1943, 330
+  size: 83, 90
+  orig: 85, 92
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1943, 239
+  size: 79, 89
+  orig: 81, 91
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 655, 4
+  size: 416, 352
+  orig: 418, 354
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: true
+  xy: 1490, 36
+  size: 107, 243
+  orig: 109, 245
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 1835, 177
+  size: 106, 243
+  orig: 108, 245
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 1009, 32
+  size: 292, 388
+  orig: 294, 390
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 1303, 145
+  size: 275, 424
+  orig: 277, 426
+  offset: 1, 1
+  index: -1

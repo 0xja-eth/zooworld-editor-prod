@@ -1,0 +1,90 @@
+
+6_hema_sk.png
+size: 1058,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 26
+  size: 340, 495
+  orig: 342, 497
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 599, 209
+  size: 46, 70
+  orig: 48, 72
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: false
+  xy: 344, 47
+  size: 375, 160
+  orig: 377, 162
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 954, 119
+  size: 102, 136
+  orig: 104, 138
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 850, 115
+  size: 102, 140
+  orig: 104, 142
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 721, 56
+  size: 127, 223
+  orig: 129, 225
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 925, 257
+  size: 129, 264
+  orig: 131, 266
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 599, 281
+  size: 324, 240
+  orig: 326, 242
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 979, 72
+  size: 74, 45
+  orig: 76, 47
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 979, 25
+  size: 74, 45
+  orig: 76, 47
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 850, 2
+  size: 127, 111
+  orig: 129, 113
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 344, 209
+  size: 253, 312
+  orig: 255, 314
+  offset: 1, 1
+  index: -1

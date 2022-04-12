@@ -1,0 +1,97 @@
+
+7_xunlu_sk.png
+size: 1644,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 888, 4
+  size: 112, 311
+  orig: 118, 389
+  offset: 5, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 1396, 7
+  size: 143, 78
+  orig: 145, 80
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: true
+  xy: 1396, 309
+  size: 242, 246
+  orig: 242, 246
+  offset: 0, 0
+  index: -1
+clothes_8
+  rotate: true
+  xy: 888, 118
+  size: 433, 409
+  orig: 435, 411
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 1396, 87
+  size: 59, 200
+  orig: 61, 202
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 1299, 132
+  size: 62, 203
+  orig: 64, 205
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 1201, 14
+  size: 102, 193
+  orig: 104, 195
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1299, 337
+  size: 76, 214
+  orig: 78, 216
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 439, 33
+  size: 447, 518
+  orig: 449, 520
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: true
+  xy: 1584, 238
+  size: 69, 57
+  orig: 71, 59
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 1541, 21
+  size: 95, 64
+  orig: 97, 66
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 1363, 148
+  size: 219, 159
+  orig: 221, 161
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 2
+  size: 435, 549
+  orig: 437, 551
+  offset: 1, 1
+  index: -1

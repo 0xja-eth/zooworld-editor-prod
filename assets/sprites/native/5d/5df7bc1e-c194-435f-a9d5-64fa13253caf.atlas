@@ -1,0 +1,97 @@
+
+4_rishigou_sk.png
+size: 1289,615
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 632, 6
+  size: 278, 241
+  orig: 280, 243
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 1127, 264
+  size: 171, 160
+  orig: 173, 162
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: false
+  xy: 1021, 437
+  size: 247, 176
+  orig: 249, 179
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 475, 32
+  size: 109, 141
+  orig: 111, 143
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 2, 2
+  size: 105, 139
+  orig: 107, 141
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 109, 28
+  size: 113, 183
+  orig: 115, 185
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 294, 29
+  size: 112, 179
+  orig: 114, 181
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 457, 249
+  size: 364, 322
+  orig: 366, 324
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 1021, 263
+  size: 104, 172
+  orig: 106, 174
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 457, 143
+  size: 104, 173
+  orig: 106, 175
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 781, 249
+  size: 238, 364
+  orig: 240, 366
+  offset: 1, 1
+  index: -1
+headdress_4
+  rotate: false
+  xy: 912, 30
+  size: 344, 217
+  orig: 346, 219
+  offset: 1, 1
+  index: -1
+weapon_5
+  rotate: true
+  xy: 2, 143
+  size: 470, 453
+  orig: 472, 455
+  offset: 1, 1
+  index: -1

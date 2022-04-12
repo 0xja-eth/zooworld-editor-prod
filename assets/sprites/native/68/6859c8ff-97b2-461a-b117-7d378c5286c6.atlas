@@ -1,0 +1,90 @@
+
+6_xiong_sk.png
+size: 1226,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 92
+  size: 329, 468
+  orig: 332, 470
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: true
+  xy: 633, 216
+  size: 344, 239
+  orig: 346, 241
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 515, 10
+  size: 122, 170
+  orig: 124, 172
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 333, 5
+  size: 127, 180
+  orig: 129, 182
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1062, 244
+  size: 162, 316
+  orig: 164, 318
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 874, 236
+  size: 186, 324
+  orig: 188, 326
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 687, 2
+  size: 262, 212
+  orig: 264, 214
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 171, 16
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: false
+  xy: 242, 17
+  size: 67, 73
+  orig: 69, 76
+  offset: 1, 2
+  index: -1
+head_6
+  rotate: false
+  xy: 2, 13
+  size: 167, 77
+  orig: 169, 79
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: true
+  xy: 951, 47
+  size: 187, 182
+  orig: 189, 184
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 333, 134
+  size: 298, 426
+  orig: 300, 428
+  offset: 1, 1
+  index: -1

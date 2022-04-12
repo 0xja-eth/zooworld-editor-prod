@@ -1,0 +1,90 @@
+
+5_xiaokaola_sk.png
+size: 755,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 617, 495
+  size: 212, 136
+  orig: 214, 138
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: true
+  xy: 621, 817
+  size: 218, 123
+  orig: 220, 125
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 581, 142
+  size: 81, 125
+  orig: 83, 127
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 581, 59
+  size: 81, 125
+  orig: 83, 127
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 621, 709
+  size: 106, 128
+  orig: 111, 130
+  offset: 4, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 272, 225
+  size: 103, 128
+  orig: 105, 130
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 330
+  size: 419, 395
+  orig: 421, 397
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: true
+  xy: 423, 225
+  size: 268, 326
+  orig: 270, 328
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 2, 2
+  size: 268, 326
+  orig: 270, 328
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 272, 12
+  size: 307, 211
+  orig: 309, 213
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: true
+  xy: 423, 548
+  size: 177, 192
+  orig: 179, 194
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 727
+  size: 308, 617
+  orig: 310, 619
+  offset: 1, 1
+  index: -1

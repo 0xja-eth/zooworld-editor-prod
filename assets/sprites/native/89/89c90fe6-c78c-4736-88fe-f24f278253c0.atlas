@@ -1,0 +1,76 @@
+
+3_zhangyv_sk.png
+size: 648,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 503
+  size: 252, 471
+  orig: 254, 473
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 271, 338
+  size: 197, 163
+  orig: 199, 165
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: true
+  xy: 165, 6
+  size: 237, 194
+  orig: 239, 196
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 2, 2
+  size: 241, 161
+  orig: 243, 163
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 475, 477
+  size: 278, 171
+  orig: 280, 173
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 501, 19
+  size: 227, 139
+  orig: 229, 141
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 361, 16
+  size: 230, 138
+  orig: 232, 140
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 245
+  size: 267, 256
+  orig: 269, 258
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 271, 248
+  size: 257, 88
+  orig: 259, 95
+  offset: 1, 6
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 757
+  size: 296, 612
+  orig: 298, 614
+  offset: 1, 1
+  index: -1

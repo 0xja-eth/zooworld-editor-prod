@@ -1,0 +1,83 @@
+
+2_jingchaji_sk.png
+size: 1911,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 863, 168
+  size: 335, 312
+  orig: 337, 314
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: true
+  xy: 740, 135
+  size: 368, 121
+  orig: 370, 123
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 963, 2
+  size: 164, 182
+  orig: 166, 184
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1147, 2
+  size: 164, 182
+  orig: 166, 184
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1177, 190
+  size: 262, 313
+  orig: 264, 315
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1441, 190
+  size: 262, 313
+  orig: 264, 315
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 351, 68
+  size: 387, 435
+  orig: 389, 437
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 1705, 192
+  size: 311, 204
+  orig: 313, 206
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: false
+  xy: 740, 32
+  size: 221, 101
+  orig: 223, 103
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 1331, 4
+  size: 184, 566
+  orig: 186, 568
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: false
+  xy: 2, 30
+  size: 347, 473
+  orig: 349, 475
+  offset: 1, 1
+  index: -1

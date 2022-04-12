@@ -1,0 +1,83 @@
+
+5_nvwutuzi_sk.png
+size: 1997,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 1831, 261
+  size: 254, 164
+  orig: 256, 166
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: false
+  xy: 1831, 155
+  size: 138, 104
+  orig: 140, 106
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 989, 12
+  size: 57, 74
+  orig: 59, 76
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 929, 13
+  size: 58, 73
+  orig: 60, 75
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 745, 2
+  size: 84, 90
+  orig: 86, 92
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 837, 2
+  size: 84, 90
+  orig: 86, 92
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 745, 88
+  size: 427, 366
+  orig: 429, 368
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 1641, 60
+  size: 188, 455
+  orig: 190, 457
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 1450, 60
+  size: 189, 455
+  orig: 191, 457
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 2, 12
+  size: 741, 503
+  orig: 743, 505
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 1113, 49
+  size: 335, 466
+  orig: 337, 468
+  offset: 1, 1
+  index: -1

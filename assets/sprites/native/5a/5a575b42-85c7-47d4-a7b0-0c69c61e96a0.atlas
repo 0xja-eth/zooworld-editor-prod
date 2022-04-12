@@ -1,0 +1,90 @@
+
+2_lanyingwu_sk.png
+size: 1841,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 629, 239
+  size: 374, 322
+  orig: 376, 324
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 1515, 201
+  size: 360, 324
+  orig: 362, 326
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: false
+  xy: 2, 22
+  size: 390, 200
+  orig: 392, 202
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 1513, 77
+  size: 122, 205
+  orig: 124, 207
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1293, 24
+  size: 118, 205
+  orig: 120, 207
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 693, 2
+  size: 328, 235
+  orig: 330, 237
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1005, 251
+  size: 249, 310
+  orig: 251, 313
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 394, 4
+  size: 297, 218
+  orig: 305, 220
+  offset: 1, 1
+  index: -1
+head_4
+  rotate: false
+  xy: 1293, 144
+  size: 218, 155
+  orig: 220, 157
+  offset: 1, 1
+  index: -1
+head_6
+  rotate: false
+  xy: 1023, 13
+  size: 268, 236
+  orig: 270, 238
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 2, 224
+  size: 625, 337
+  orig: 627, 339
+  offset: 1, 1
+  index: -1
+weapon_6
+  rotate: true
+  xy: 1256, 301
+  size: 260, 257
+  orig: 262, 259
+  offset: 1, 1
+  index: -1

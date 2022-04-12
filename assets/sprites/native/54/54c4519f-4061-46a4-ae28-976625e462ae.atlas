@@ -1,0 +1,90 @@
+
+3_haima_sk.png
+size: 1617,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 2
+  size: 407, 432
+  orig: 409, 434
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 436, 6
+  size: 148, 154
+  orig: 150, 156
+  offset: 1, 1
+  index: -1
+clothes_2
+  rotate: false
+  xy: 436, 156
+  size: 272, 253
+  orig: 274, 255
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: false
+  xy: 710, 19
+  size: 299, 168
+  orig: 301, 170
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1404, 42
+  size: 141, 131
+  orig: 143, 133
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 710, 189
+  size: 357, 220
+  orig: 359, 222
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 592, 20
+  size: 116, 134
+  orig: 118, 136
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 1517, 265
+  size: 144, 98
+  orig: 146, 100
+  offset: 1, 1
+  index: -1
+head_6
+  rotate: false
+  xy: 1011, 23
+  size: 242, 164
+  orig: 244, 166
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: false
+  xy: 1255, 36
+  size: 147, 137
+  orig: 149, 140
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 1305, 175
+  size: 234, 210
+  orig: 236, 212
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: false
+  xy: 1069, 192
+  size: 234, 217
+  orig: 236, 219
+  offset: 1, 1
+  index: -1

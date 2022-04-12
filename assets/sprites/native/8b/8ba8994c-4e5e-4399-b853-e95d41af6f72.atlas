@@ -1,0 +1,97 @@
+
+0_shapigou_sk.png
+size: 1928,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 375, 122
+  size: 407, 426
+  orig: 409, 428
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 902, 67
+  size: 71, 52
+  orig: 73, 54
+  offset: 1, 1
+  index: -1
+clothes_4
+  rotate: false
+  xy: 1261, 10
+  size: 410, 207
+  orig: 412, 209
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 527, 10
+  size: 110, 149
+  orig: 112, 151
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 375, 10
+  size: 110, 150
+  orig: 112, 152
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 1554, 350
+  size: 198, 359
+  orig: 200, 361
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 784, 140
+  size: 265, 408
+  orig: 267, 410
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 1261, 219
+  size: 329, 291
+  orig: 329, 291
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 678, 26
+  size: 127, 94
+  orig: 129, 96
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 807, 11
+  size: 127, 93
+  orig: 129, 95
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 1051, 77
+  size: 471, 208
+  orig: 473, 210
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 2
+  size: 371, 546
+  orig: 373, 548
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: false
+  xy: 1673, 97
+  size: 253, 251
+  orig: 253, 251
+  offset: 0, 0
+  index: -1

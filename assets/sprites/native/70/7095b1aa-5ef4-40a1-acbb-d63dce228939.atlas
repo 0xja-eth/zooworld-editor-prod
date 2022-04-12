@@ -1,0 +1,90 @@
+
+1_sanjiaolong_sk.png
+size: 844,1065
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 421, 2
+  size: 432, 421
+  orig: 434, 423
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 329, 465
+  size: 247, 212
+  orig: 249, 214
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: false
+  xy: 324, 875
+  size: 280, 188
+  orig: 282, 190
+  offset: 1, 1
+  index: -1
+clothes_10
+  rotate: false
+  xy: 2, 960
+  size: 115, 103
+  orig: 117, 105
+  offset: 1, 1
+  index: -1
+clothes_9
+  rotate: true
+  xy: 606, 872
+  size: 191, 201
+  orig: 193, 203
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 397, 679
+  size: 194, 195
+  orig: 197, 198
+  offset: 1, 2
+  index: -1
+foot_2
+  rotate: true
+  xy: 119, 876
+  size: 187, 203
+  orig: 197, 205
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 594, 667
+  size: 203, 211
+  orig: 205, 213
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 578, 436
+  size: 229, 241
+  orig: 260, 247
+  offset: 14, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 63
+  size: 417, 400
+  orig: 419, 402
+  offset: 1, 1
+  index: -1
+headdress_4
+  rotate: false
+  xy: 2, 681
+  size: 393, 192
+  orig: 395, 194
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 469
+  size: 210, 325
+  orig: 212, 327
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,97 @@
+
+7_changjinglu_sk.png
+size: 1512,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 336, 171
+  size: 125, 450
+  orig: 127, 452
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 1308, 51
+  size: 113, 112
+  orig: 115, 114
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: false
+  xy: 583, 40
+  size: 161, 129
+  orig: 163, 131
+  offset: 1, 1
+  index: -1
+clothes_4
+  rotate: false
+  xy: 1308, 165
+  size: 143, 131
+  orig: 145, 133
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 1089, 9
+  size: 54, 199
+  orig: 56, 202
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 1453, 90
+  size: 57, 206
+  orig: 59, 209
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1202, 67
+  size: 104, 229
+  orig: 106, 231
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1089, 65
+  size: 111, 231
+  orig: 113, 233
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 788, 2
+  size: 294, 299
+  orig: 296, 301
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: true
+  xy: 1290, 4
+  size: 45, 75
+  orig: 47, 77
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 1423, 33
+  size: 55, 81
+  orig: 57, 83
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 336, 27
+  size: 245, 142
+  orig: 247, 144
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 24
+  size: 332, 272
+  orig: 334, 274
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+6_yazi_sk.png
+size: 1657,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 562, 55
+  size: 315, 455
+  orig: 317, 457
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: true
+  xy: 1195, 179
+  size: 331, 196
+  orig: 333, 198
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 879, 10
+  size: 149, 136
+  orig: 151, 138
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1017, 11
+  size: 148, 136
+  orig: 150, 138
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1023, 177
+  size: 170, 333
+  orig: 172, 335
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 879, 161
+  size: 142, 349
+  orig: 144, 351
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 1460, 31
+  size: 224, 194
+  orig: 226, 196
+  offset: 1, 1
+  index: -1
+head_4
+  rotate: false
+  xy: 562, 2
+  size: 77, 51
+  orig: 79, 53
+  offset: 1, 1
+  index: -1
+head_6
+  rotate: false
+  xy: 1155, 6
+  size: 303, 169
+  orig: 305, 171
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 1460, 257
+  size: 253, 195
+  orig: 255, 197
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 12
+  size: 498, 558
+  orig: 500, 560
+  offset: 1, 1
+  index: -1
