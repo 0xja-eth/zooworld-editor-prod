@@ -1,0 +1,111 @@
+
+7_banma_sk.png
+size: 618,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 370, 441
+  size: 113, 280
+  orig: 113, 280
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 351, 2
+  size: 151, 157
+  orig: 153, 159
+  offset: 1, 1
+  index: -1
+clothes_4
+  rotate: true
+  xy: 523, 650
+  size: 165, 93
+  orig: 167, 95
+  offset: 1, 1
+  index: -1
+clothes_8
+  rotate: true
+  xy: 2, 414
+  size: 307, 366
+  orig: 311, 368
+  offset: 3, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 301, 3
+  size: 48, 200
+  orig: 50, 202
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 301, 205
+  size: 55, 207
+  orig: 57, 209
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 2, 20
+  size: 97, 214
+  orig: 99, 216
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 523, 817
+  size: 91, 236
+  orig: 93, 238
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 2, 119
+  size: 293, 297
+  orig: 295, 299
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: true
+  xy: 504, 119
+  size: 40, 66
+  orig: 42, 68
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 485, 443
+  size: 51, 73
+  orig: 53, 75
+  offset: 1, 1
+  index: -1
+head_4
+  rotate: true
+  xy: 218, 34
+  size: 83, 81
+  orig: 85, 83
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 370, 161
+  size: 278, 241
+  orig: 280, 243
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: true
+  xy: 485, 496
+  size: 152, 128
+  orig: 154, 130
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 723
+  size: 330, 519
+  orig: 332, 521
+  offset: 1, 1
+  index: -1
