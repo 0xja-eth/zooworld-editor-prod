@@ -22,8 +22,8 @@ foot_1
   rotate: true
   xy: 1675, 51
   size: 161, 182
-  orig: 163, 184
-  offset: 1, 1
+  orig: 161, 182
+  offset: 0, 0
   index: -1
 foot_2
   rotate: true
