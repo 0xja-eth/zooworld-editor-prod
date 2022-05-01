@@ -1,0 +1,76 @@
+
+3_sharenjing_sk.png
+size: 1432,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 301, 192
+  size: 381, 420
+  orig: 383, 422
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 853, 40
+  size: 275, 212
+  orig: 277, 214
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: false
+  xy: 164, 10
+  size: 219, 179
+  orig: 221, 181
+  offset: 1, 1
+  index: -1
+clothes_2
+  rotate: false
+  xy: 684, 317
+  size: 743, 295
+  orig: 743, 295
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 1294, 150
+  size: 136, 165
+  orig: 138, 167
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 2, 2
+  size: 187, 160
+  orig: 189, 162
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 2, 191
+  size: 421, 297
+  orig: 423, 299
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 1067, 46
+  size: 269, 225
+  orig: 271, 227
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: true
+  xy: 684, 10
+  size: 305, 167
+  orig: 305, 167
+  offset: 0, 0
+  index: -1
+weapon_6
+  rotate: false
+  xy: 385, 35
+  size: 291, 155
+  orig: 291, 155
+  offset: 0, 0
+  index: -1

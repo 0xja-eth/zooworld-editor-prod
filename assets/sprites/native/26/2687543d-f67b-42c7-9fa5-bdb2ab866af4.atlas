@@ -1,0 +1,69 @@
+
+5_tuboshu_sk.png
+size: 1405,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 1035, 217
+  size: 249, 188
+  orig: 251, 190
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: true
+  xy: 1035, 9
+  size: 206, 161
+  orig: 208, 163
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 1198, 49
+  size: 80, 85
+  orig: 82, 87
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1198, 131
+  size: 84, 85
+  orig: 86, 87
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1286, 75
+  size: 115, 164
+  orig: 119, 166
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1286, 241
+  size: 117, 164
+  orig: 119, 166
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 2
+  size: 474, 403
+  orig: 476, 405
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 833, 53
+  size: 352, 200
+  orig: 354, 202
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 478, 11
+  size: 353, 394
+  orig: 358, 401
+  offset: 4, 1
+  index: -1

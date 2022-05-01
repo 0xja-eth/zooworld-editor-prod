@@ -1,0 +1,97 @@
+
+0_xiniu_sk.png
+size: 896,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 632
+  size: 414, 429
+  orig: 416, 431
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: false
+  xy: 318, 2
+  size: 302, 205
+  orig: 304, 208
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 418, 680
+  size: 101, 143
+  orig: 103, 145
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 794, 921
+  size: 100, 140
+  orig: 103, 142
+  offset: 2, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 418, 825
+  size: 236, 374
+  orig: 238, 376
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 329, 220
+  size: 261, 410
+  orig: 263, 412
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 592, 209
+  size: 267, 284
+  orig: 267, 284
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 521, 742
+  size: 60, 81
+  orig: 62, 83
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 794, 856
+  size: 63, 86
+  orig: 66, 88
+  offset: 1, 1
+  index: -1
+head_6
+  rotate: true
+  xy: 2, 323
+  size: 307, 325
+  orig: 307, 325
+  offset: 0, 0
+  index: -1
+headdress_1
+  rotate: false
+  xy: 622, 7
+  size: 213, 200
+  orig: 215, 202
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 592, 495
+  size: 328, 294
+  orig: 330, 296
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: true
+  xy: 2, 83
+  size: 238, 314
+  orig: 240, 316
+  offset: 1, 1
+  index: -1

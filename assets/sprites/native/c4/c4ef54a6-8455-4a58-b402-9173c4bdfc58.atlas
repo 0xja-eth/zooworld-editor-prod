@@ -1,0 +1,83 @@
+
+5_ciwei_sk.png
+size: 1695,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 855, 32
+  size: 224, 134
+  orig: 226, 136
+  offset: 1, 1
+  index: -1
+clothes_5
+  rotate: true
+  xy: 2, 2
+  size: 594, 163
+  orig: 596, 165
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 1081, 41
+  size: 97, 125
+  orig: 99, 127
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1450, 212
+  size: 97, 125
+  orig: 99, 127
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1544, 67
+  size: 123, 119
+  orig: 125, 121
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 1577, 188
+  size: 121, 116
+  orig: 123, 118
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 1098, 203
+  size: 393, 350
+  orig: 395, 352
+  offset: 1, 1
+  index: -1
+head_7
+  rotate: false
+  xy: 167, 9
+  size: 686, 587
+  orig: 688, 589
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 1180, 19
+  size: 362, 182
+  orig: 364, 184
+  offset: 1, 1
+  index: -1
+headdress_4
+  rotate: true
+  xy: 855, 168
+  size: 428, 241
+  orig: 430, 243
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 1450, 311
+  size: 235, 285
+  orig: 237, 287
+  offset: 1, 1
+  index: -1

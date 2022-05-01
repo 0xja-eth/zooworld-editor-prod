@@ -1,0 +1,48 @@
+
+3_she_sk.png
+size: 883,591
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 226
+  size: 308, 363
+  orig: 310, 365
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 701, 98
+  size: 177, 135
+  orig: 179, 137
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: false
+  xy: 2, 2
+  size: 340, 222
+  orig: 342, 226
+  offset: 1, 2
+  index: -1
+head_1
+  rotate: true
+  xy: 312, 233
+  size: 356, 244
+  orig: 358, 246
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 558, 235
+  size: 354, 323
+  orig: 356, 325
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 344, 12
+  size: 219, 355
+  orig: 221, 357
+  offset: 1, 1
+  index: -1

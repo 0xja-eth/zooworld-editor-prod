@@ -1,0 +1,83 @@
+
+0_laohu_sk.png
+size: 774,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 678
+  size: 376, 443
+  orig: 381, 445
+  offset: 4, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 229, 2
+  size: 76, 69
+  orig: 78, 71
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: false
+  xy: 441, 438
+  size: 309, 151
+  orig: 311, 153
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 392, 62
+  size: 101, 140
+  orig: 103, 143
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 495, 63
+  size: 102, 139
+  orig: 104, 141
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 447, 591
+  size: 191, 325
+  orig: 193, 327
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 392, 204
+  size: 232, 379
+  orig: 235, 381
+  offset: 2, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 447, 784
+  size: 325, 270
+  orig: 327, 272
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: true
+  xy: 229, 73
+  size: 377, 161
+  orig: 379, 163
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: false
+  xy: 2, 14
+  size: 225, 436
+  orig: 227, 438
+  offset: 1, 1
+  index: -1
+weapon_6
+  rotate: true
+  xy: 2, 452
+  size: 224, 437
+  orig: 226, 439
+  offset: 1, 1
+  index: -1

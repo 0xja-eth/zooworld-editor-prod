@@ -1,0 +1,69 @@
+
+3_chushishayu_sk.png
+size: 1227,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 843, 238
+  size: 202, 309
+  orig: 204, 311
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 4
+  size: 339, 215
+  orig: 341, 217
+  offset: 1, 1
+  index: -1
+clothes_7
+  rotate: false
+  xy: 343, 32
+  size: 293, 153
+  orig: 295, 155
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1064, 58
+  size: 161, 177
+  orig: 163, 179
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 896, 53
+  size: 166, 182
+  orig: 166, 182
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 221
+  size: 453, 326
+  orig: 456, 328
+  offset: 2, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 638, 2
+  size: 256, 183
+  orig: 258, 185
+  offset: 1, 1
+  index: -1
+headdress_4
+  rotate: true
+  xy: 1047, 237
+  size: 310, 141
+  orig: 320, 148
+  offset: 1, 6
+  index: -1
+weapon_1
+  rotate: true
+  xy: 457, 187
+  size: 360, 384
+  orig: 362, 386
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+3_eyu_sk.png
+size: 1098,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 314
+  size: 245, 442
+  orig: 247, 444
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 18
+  size: 301, 190
+  orig: 303, 192
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: false
+  xy: 686, 47
+  size: 218, 107
+  orig: 220, 109
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 436, 34
+  size: 121, 100
+  orig: 123, 102
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 559, 19
+  size: 115, 97
+  orig: 117, 99
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 917, 174
+  size: 191, 179
+  orig: 191, 179
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 305, 17
+  size: 129, 191
+  orig: 129, 191
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 686, 156
+  size: 209, 229
+  orig: 211, 231
+  offset: 1, 1
+  index: -1
+head_4
+  rotate: false
+  xy: 917, 2
+  size: 165, 170
+  orig: 167, 172
+  offset: 1, 1
+  index: -1
+head_6
+  rotate: false
+  xy: 2, 210
+  size: 371, 102
+  orig: 378, 104
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 446, 136
+  size: 229, 238
+  orig: 231, 240
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 446, 367
+  size: 192, 593
+  orig: 194, 595
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+2_maotouying_sk.png
+size: 1687,603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 1047, 2
+  size: 339, 284
+  orig: 341, 286
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: true
+  xy: 1409, 298
+  size: 303, 276
+  orig: 305, 278
+  offset: 1, 1
+  index: -1
+clothes_8
+  rotate: false
+  xy: 2, 149
+  size: 625, 452
+  orig: 627, 454
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 629, 41
+  size: 144, 171
+  orig: 146, 173
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 802, 41
+  size: 144, 169
+  orig: 146, 171
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 2, 11
+  size: 136, 276
+  orig: 138, 278
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 280, 11
+  size: 136, 273
+  orig: 138, 275
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 629, 187
+  size: 416, 414
+  orig: 418, 416
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 1047, 343
+  size: 360, 258
+  orig: 362, 260
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 1333, 42
+  size: 254, 310
+  orig: 256, 312
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+1_pangxie_sk.png
+size: 945,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 630
+  size: 459, 401
+  orig: 467, 403
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: true
+  xy: 2, 6
+  size: 622, 214
+  orig: 624, 216
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 778, 296
+  size: 159, 152
+  orig: 161, 154
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 778, 457
+  size: 165, 152
+  orig: 167, 154
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 514, 2
+  size: 318, 269
+  orig: 320, 272
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 514, 273
+  size: 262, 349
+  orig: 264, 352
+  offset: 1, 2
+  index: -1
+head_1
+  rotate: false
+  xy: 218, 7
+  size: 256, 186
+  orig: 258, 188
+  offset: 1, 1
+  index: -1
+head_6
+  rotate: true
+  xy: 834, 157
+  size: 137, 109
+  orig: 139, 111
+  offset: 1, 1
+  index: -1
+headdress_4
+  rotate: false
+  xy: 218, 195
+  size: 294, 427
+  orig: 296, 429
+  offset: 1, 1
+  index: -1
+weapon_6
+  rotate: false
+  xy: 463, 624
+  size: 408, 407
+  orig: 410, 410
+  offset: 1, 1
+  index: -1

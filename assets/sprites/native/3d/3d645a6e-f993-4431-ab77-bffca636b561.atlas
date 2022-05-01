@@ -1,0 +1,83 @@
+
+0_shizi_sk.png
+size: 1808,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 1395, 344
+  size: 411, 428
+  orig: 413, 430
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 1233, 135
+  size: 153, 131
+  orig: 155, 133
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: true
+  xy: 686, 112
+  size: 284, 173
+  orig: 286, 175
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 686, 2
+  size: 108, 146
+  orig: 110, 148
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1233, 23
+  size: 110, 149
+  orig: 112, 151
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 861, 32
+  size: 234, 370
+  orig: 235, 370
+  offset: 1, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 1395, 82
+  size: 260, 407
+  orig: 262, 409
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 2, 11
+  size: 385, 420
+  orig: 387, 422
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 424, 4
+  size: 260, 392
+  orig: 262, 394
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 398
+  size: 374, 894
+  orig: 376, 896
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: false
+  xy: 898, 268
+  size: 495, 504
+  orig: 498, 506
+  offset: 2, 1
+  index: -1

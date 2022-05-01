@@ -1,0 +1,83 @@
+
+0_baozi_sk.png
+size: 1092,1074
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 17
+  size: 417, 434
+  orig: 419, 436
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 349, 455
+  size: 276, 117
+  orig: 278, 119
+  offset: 1, 1
+  index: -1
+clothes_1
+  rotate: false
+  xy: 734, 799
+  size: 355, 273
+  orig: 357, 275
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 979, 2
+  size: 109, 147
+  orig: 111, 149
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 979, 151
+  size: 111, 150
+  orig: 113, 152
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 687, 303
+  size: 238, 376
+  orig: 240, 378
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 421, 41
+  size: 264, 412
+  orig: 266, 414
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 687, 2
+  size: 290, 299
+  orig: 292, 301
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 349, 574
+  size: 498, 383
+  orig: 500, 385
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 453
+  size: 345, 619
+  orig: 347, 621
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: true
+  xy: 734, 543
+  size: 254, 351
+  orig: 256, 353
+  offset: 1, 1
+  index: -1

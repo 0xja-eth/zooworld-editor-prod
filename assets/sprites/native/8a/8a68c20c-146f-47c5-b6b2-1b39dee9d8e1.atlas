@@ -1,0 +1,83 @@
+
+3_xiyi_sk.png
+size: 761,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 281, 335
+  size: 220, 315
+  orig: 220, 315
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 503, 370
+  size: 278, 256
+  orig: 278, 259
+  offset: 0, 3
+  index: -1
+clothes_3
+  rotate: true
+  xy: 545, 650
+  size: 376, 209
+  orig: 387, 211
+  offset: 2, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 438, 2
+  size: 133, 121
+  orig: 135, 123
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 255, 43
+  size: 181, 121
+  orig: 183, 123
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 281, 166
+  size: 167, 188
+  orig: 168, 189
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 503, 252
+  size: 116, 198
+  orig: 116, 198
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 652
+  size: 541, 374
+  orig: 543, 385
+  offset: 1, 10
+  index: -1
+headdress_1
+  rotate: true
+  xy: 2, 16
+  size: 290, 251
+  orig: 292, 253
+  offset: 1, 1
+  index: -1
+headdress_4
+  rotate: false
+  xy: 471, 125
+  size: 176, 125
+  orig: 179, 127
+  offset: 2, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 308
+  size: 277, 342
+  orig: 279, 344
+  offset: 1, 1
+  index: -1

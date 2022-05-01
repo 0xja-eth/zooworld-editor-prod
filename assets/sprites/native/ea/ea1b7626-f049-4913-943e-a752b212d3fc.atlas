@@ -1,0 +1,90 @@
+
+4_laoshu_sk.png
+size: 1221,605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 851, 318
+  size: 317, 285
+  orig: 319, 287
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 766, 60
+  size: 206, 182
+  orig: 208, 184
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: true
+  xy: 680, 268
+  size: 335, 169
+  orig: 337, 171
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 950, 194
+  size: 122, 174
+  orig: 124, 176
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 950, 70
+  size: 122, 170
+  orig: 124, 172
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 1122, 37
+  size: 97, 140
+  orig: 97, 140
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 1126, 179
+  size: 91, 137
+  orig: 93, 139
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 350, 257
+  size: 346, 328
+  orig: 348, 331
+  offset: 1, 2
+  index: -1
+head_2
+  rotate: true
+  xy: 245, 19
+  size: 214, 242
+  orig: 216, 244
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: true
+  xy: 2, 18
+  size: 215, 241
+  orig: 217, 244
+  offset: 1, 2
+  index: -1
+headdress_2
+  rotate: true
+  xy: 489, 2
+  size: 253, 275
+  orig: 255, 277
+  offset: 1, 1
+  index: -1
+weapon_5
+  rotate: false
+  xy: 2, 235
+  size: 346, 368
+  orig: 348, 370
+  offset: 1, 1
+  index: -1

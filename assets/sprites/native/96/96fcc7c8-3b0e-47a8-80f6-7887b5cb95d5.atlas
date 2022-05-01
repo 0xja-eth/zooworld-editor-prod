@@ -1,0 +1,90 @@
+
+1_haidaogui_sk.png
+size: 917,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 527
+  size: 488, 449
+  orig: 490, 451
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: true
+  xy: 751, 138
+  size: 193, 110
+  orig: 195, 112
+  offset: 1, 1
+  index: -1
+clothes_2
+  rotate: true
+  xy: 453, 757
+  size: 258, 446
+  orig: 260, 448
+  offset: 1, 1
+  index: -1
+clothes_7
+  rotate: false
+  xy: 453, 535
+  size: 442, 220
+  orig: 444, 222
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 751, 31
+  size: 105, 140
+  orig: 107, 142
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 515, 2
+  size: 104, 140
+  orig: 106, 142
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 233, 30
+  size: 188, 187
+  orig: 190, 189
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 751, 333
+  size: 164, 200
+  orig: 166, 202
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 2
+  size: 229, 215
+  orig: 231, 217
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 518, 108
+  size: 425, 231
+  orig: 427, 233
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: true
+  xy: 423, 42
+  size: 175, 90
+  orig: 177, 92
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 219
+  size: 306, 514
+  orig: 308, 516
+  offset: 1, 1
+  index: -1

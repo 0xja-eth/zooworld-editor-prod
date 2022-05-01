@@ -1,0 +1,20 @@
+const fs = require("fs");
+
+const root = "./partpictures";
+const files = fs.readdirSync(root);
+
+files.forEach((file, i) => {
+	console.log(`${file} ${i}/${files.length}`);
+	const slices = file.split(".");
+	const ext = slices[slices.length - 1];
+	if (ext == "meta") {
+		const path = `${root}/${file}`;
+		let txt = fs.readFileSync(path, "utf8");
+		txt = txt.replace(
+			'"premultiplyAlpha": false', 
+			'"premultiplyAlpha": true');
+		fs.writeFileSync(path, txt, "utf8");
+	}
+})
+
+console.log("finished");

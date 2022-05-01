@@ -1,0 +1,90 @@
+
+4_wushigou_sk.png
+size: 1988,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 398, 25
+  size: 352, 270
+  orig: 356, 272
+  offset: 3, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 1809, 19
+  size: 166, 128
+  orig: 168, 130
+  offset: 1, 1
+  index: -1
+clothes_2
+  rotate: true
+  xy: 963, 109
+  size: 268, 465
+  orig: 270, 467
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: false
+  xy: 1430, 149
+  size: 433, 228
+  orig: 435, 230
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 1623, 18
+  size: 129, 184
+  orig: 131, 186
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1430, 12
+  size: 135, 191
+  orig: 137, 193
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 1274, 26
+  size: 81, 129
+  orig: 83, 131
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 963, 2
+  size: 105, 154
+  orig: 107, 156
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 22
+  size: 394, 355
+  orig: 396, 357
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: true
+  xy: 1119, 2
+  size: 105, 153
+  orig: 107, 155
+  offset: 1, 1
+  index: -1
+head_3
+  rotate: false
+  xy: 1865, 192
+  size: 121, 185
+  orig: 123, 187
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: true
+  xy: 670, 43
+  size: 334, 291
+  orig: 336, 293
+  offset: 1, 1
+  index: -1

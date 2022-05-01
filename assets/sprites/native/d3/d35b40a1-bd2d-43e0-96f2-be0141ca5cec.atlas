@@ -1,0 +1,83 @@
+
+7_kugou_sk.png
+size: 1640,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 1366, 18
+  size: 169, 271
+  orig: 172, 273
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: false
+  xy: 876, 13
+  size: 233, 145
+  orig: 235, 147
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 1441, 339
+  size: 128, 197
+  orig: 130, 199
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 1441, 210
+  size: 127, 195
+  orig: 129, 197
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 630, 2
+  size: 156, 244
+  orig: 158, 246
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 1111, 18
+  size: 140, 253
+  orig: 142, 255
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 1165, 189
+  size: 274, 278
+  orig: 276, 280
+  offset: 1, 1
+  index: -1
+head_7
+  rotate: true
+  xy: 2, 16
+  size: 451, 515
+  orig: 453, 517
+  offset: 1, 1
+  index: -1
+headdress_2
+  rotate: true
+  xy: 519, 48
+  size: 419, 109
+  orig: 421, 111
+  offset: 1, 1
+  index: -1
+weapon_2
+  rotate: false
+  xy: 898, 160
+  size: 265, 307
+  orig: 267, 309
+  offset: 1, 1
+  index: -1
+weapon_6
+  rotate: false
+  xy: 630, 160
+  size: 266, 307
+  orig: 268, 309
+  offset: 1, 1
+  index: -1

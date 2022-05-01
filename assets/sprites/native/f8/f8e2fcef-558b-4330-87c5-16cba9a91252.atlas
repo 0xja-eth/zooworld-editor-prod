@@ -1,0 +1,76 @@
+
+2_moxigeniao_sk.png
+size: 929,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 22
+  size: 433, 359
+  orig: 435, 361
+  offset: 1, 1
+  index: -1
+clothes_6
+  rotate: true
+  xy: 437, 2
+  size: 369, 202
+  orig: 371, 204
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 765, 387
+  size: 118, 91
+  orig: 120, 93
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 765, 480
+  size: 125, 97
+  orig: 127, 99
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 641, 73
+  size: 199, 298
+  orig: 201, 300
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 744, 743
+  size: 183, 295
+  orig: 185, 297
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 383
+  size: 441, 352
+  orig: 443, 354
+  offset: 1, 1
+  index: -1
+head_4
+  rotate: false
+  xy: 765, 579
+  size: 136, 162
+  orig: 138, 164
+  offset: 1, 1
+  index: -1
+headdress_1
+  rotate: false
+  xy: 2, 737
+  size: 740, 301
+  orig: 742, 303
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: false
+  xy: 445, 373
+  size: 318, 362
+  orig: 320, 364
+  offset: 1, 1
+  index: -1

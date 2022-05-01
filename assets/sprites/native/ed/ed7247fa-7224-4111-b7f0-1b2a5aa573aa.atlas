@@ -1,0 +1,76 @@
+
+3_zhangyu_sk.png
+size: 648,1054
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 502
+  size: 252, 471
+  orig: 254, 473
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 271, 337
+  size: 197, 163
+  orig: 199, 165
+  offset: 1, 1
+  index: -1
+clothes_3
+  rotate: true
+  xy: 165, 6
+  size: 237, 194
+  orig: 239, 196
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: true
+  xy: 2, 2
+  size: 241, 161
+  orig: 243, 163
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: true
+  xy: 475, 476
+  size: 278, 171
+  orig: 280, 173
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 501, 18
+  size: 227, 139
+  orig: 229, 141
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: true
+  xy: 361, 15
+  size: 230, 138
+  orig: 232, 140
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 245
+  size: 267, 255
+  orig: 269, 258
+  offset: 1, 2
+  index: -1
+headdress_1
+  rotate: false
+  xy: 271, 247
+  size: 256, 88
+  orig: 259, 95
+  offset: 1, 6
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 756
+  size: 296, 612
+  orig: 298, 614
+  offset: 1, 1
+  index: -1
