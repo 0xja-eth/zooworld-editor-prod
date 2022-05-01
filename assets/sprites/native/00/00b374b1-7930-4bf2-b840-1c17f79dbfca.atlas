@@ -1,0 +1,76 @@
+
+6_shulan_sk.png
+size: 1044,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 28
+  size: 284, 405
+  orig: 284, 405
+  offset: 0, 0
+  index: -1
+clothes_2
+  rotate: false
+  xy: 2, 603
+  size: 832, 424
+  orig: 834, 427
+  offset: 1, 2
+  index: -1
+clothes_3
+  rotate: true
+  xy: 726, 290
+  size: 311, 148
+  orig: 313, 150
+  offset: 1, 1
+  index: -1
+foot_1
+  rotate: false
+  xy: 877, 234
+  size: 133, 137
+  orig: 136, 139
+  offset: 1, 1
+  index: -1
+foot_2
+  rotate: false
+  xy: 877, 96
+  size: 132, 136
+  orig: 136, 138
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 876, 373
+  size: 166, 287
+  orig: 168, 289
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 836, 662
+  size: 191, 365
+  orig: 193, 367
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: false
+  xy: 409, 55
+  size: 270, 257
+  orig: 272, 259
+  offset: 1, 1
+  index: -1
+headdress_3
+  rotate: true
+  xy: 681, 2
+  size: 286, 194
+  orig: 288, 196
+  offset: 1, 1
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 314
+  size: 287, 722
+  orig: 289, 724
+  offset: 1, 1
+  index: -1
