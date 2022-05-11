@@ -1,1 +1,1 @@
-window._CCSettings={platform:"web-desktop",groupList:["default","hero"],collisionMatrix:[[true],[false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/SelectorScene.fire",orientation:"",jsList:[]};
+window._CCSettings={platform:"web-desktop",groupList:["default","hero"],collisionMatrix:[[true],[false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/SelectorScene-Editor.fire",orientation:"",jsList:[]};
