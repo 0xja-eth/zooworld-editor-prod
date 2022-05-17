@@ -15,8 +15,8 @@ clothes_1
   rotate: true
   xy: 1035, 9
   size: 206, 161
-  orig: 208, 163
-  offset: 1, 1
+  orig: 206, 161
+  offset: 0, 0
   index: -1
 foot_1
   rotate: true
